@@ -9,11 +9,11 @@
 
 ## Repository Structure 📂 <br>
 
-    |--- dwh.cfg                            # aws access keys <br>
-    |--- creating_redshift_cluster_boto3    # routines to connect to redshift and create a cluster <br>
-    |--- sql_queries.py                     # sql statements CREATE/INSERT/DROP <br>
-    |--- create_tables.py                   # connects to redshift and creates facts and dimensions tables <br>
-    |--- etl.py                             # connects to redshift, extracts/tranforms/loads data to datawarehouse <br>
+    |--- dwh.cfg                            # aws access keys  
+    |--- creating_redshift_cluster_boto3    # routines to connect to redshift and create a cluster  
+    |--- sql_queries.py                     # sql statements CREATE/INSERT/DROP  
+    |--- create_tables.py                   # connects to redshift and creates facts and dimensions tables  
+    |--- etl.py                             # connects to redshift, extracts/tranforms/loads data to datawarehouse  
 
 ## Data Modeling 💾
 The data resides in two different s3 buckets.  
