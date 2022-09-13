@@ -1,4 +1,4 @@
-# Extracting data from S3 Buckets and loading to Redshift DataWarehouse  
+# Extracting data from S3 Buckets and loading to Redshift   
 ## Project Structure 🛠
 1. Creating AWS S3 buckets to store data;
 2. Creating a redshift cluster using boto3;
