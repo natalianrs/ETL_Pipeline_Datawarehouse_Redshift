@@ -54,6 +54,6 @@ The file is structure in these main objectives:<br>
 		- Make sure you can connect to the cluster
 	5. Run `python create_tables.py`  to connect to cluster and create tables
 	6. Run `python etl.py` to extract data and load to redshift tables.
-	7. Use `query editor`in AWS 
+	7. Use `query editor`in AWS to query database
 
 🎅
